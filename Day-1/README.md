@@ -465,4 +465,5 @@ plot -vdd#branch
 
 **Id vs Vds for different Vgs - sky130 NMOS (W=5um, L=2um)**
 
-![Alt Text](Images/lab1.png)
+![Alt Text](Images/w4d1.png)
+

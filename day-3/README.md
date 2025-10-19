@@ -102,7 +102,7 @@ plot out vs in
 
 Below image shows the Voltage Transfer Characteristics (VTC) of a CMOS Inverter:
 
-![Alt Text](Images/3.png)
+![Alt Text](Images/w4d3-1.png)
 
 <details> <summary><strong>day3_inv_tran_Wp084_Wn036.spice </strong></summary>
 
@@ -153,7 +153,7 @@ Below image shows the output waveform of transient analysis of a CMOS inverter, 
 - Output **rise time delay** = Time at 50% of rising edge − Time at 50% of falling edge  
 - Output **fall time delay** = Time at 50% of falling edge − Time at 50% of rising edge  
 
-![Alt Text](Images/4.png)
+![Alt Text](Images/w4d3-2.png)
 
 <a name="comparison-vtc-vs-tran"></a>
 
@@ -244,3 +244,4 @@ If the **rise delay** and **fall delay** of the clock buffer are well-matched, n
 However, if they are imbalanced due to PMOS/NMOS `Ron mismatch`, **duty cycle correction** circuits are used in the clock tree to maintain a 50% duty cycle.
 
 ![Alt Text](Images/11.png)
+

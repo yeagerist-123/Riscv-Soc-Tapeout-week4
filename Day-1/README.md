@@ -132,7 +132,10 @@ plot -vdd#branch
 
 **The plot of Ids vs Vds over constant Vgs:**
 
-![Alt Text](Images/9.png)
+<img width="1920" height="922" alt="w4d2-1" src="https://github.com/user-attachments/assets/f2326a7d-a043-445e-a704-c175f9ef8550" />
+<img width="1920" height="922" alt="w4d2-2" src="https://github.com/user-attachments/assets/a46b7831-6cfe-4530-b3d6-a6c176c4e33a" />
+<img width="1920" height="922" alt="w4d2-3" src="https://github.com/user-attachments/assets/b0a25d80-ed59-4f04-96b0-f0bdf206c397" />
+
 
  <details> <summary><strong>day2_nfet_idvgs_L015_W039.spice </strong></summary>
 
@@ -172,7 +175,9 @@ plot -vdd#branch
 
 **The plot of Ids vs Vgs over constant Vds:**
 
-![Alt Text](Images/10.png)
+<img width="1920" height="922" alt="w4d2-4" src="https://github.com/user-attachments/assets/2d7b313b-b8d3-4ffe-805e-ac01cde10549" />
+<img width="1920" height="922" alt="w4d2-5" src="https://github.com/user-attachments/assets/fbf7d114-fcd8-4e90-88cd-3436dd39846c" />
+
 
 ### `CMOS voltage Transfer Characteristics`
 
@@ -229,3 +234,4 @@ Merge the NMOS and PMOS load curves by equating their Ids characteristics with r
 Plot the **Voltage Transfer Characteristic (VTC)** by sweeping **Vin** and mapping the corresponding **Vout**, showing the inverter switching behavior from logic HIGH to LOW.
 
 ![Alt Text](Images/16.png)
+
